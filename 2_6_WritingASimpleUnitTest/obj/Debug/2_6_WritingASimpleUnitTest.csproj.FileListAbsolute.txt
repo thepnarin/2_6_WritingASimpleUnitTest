@@ -1,0 +1,6 @@
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\bin\Debug\2_6_WritingASimpleUnitTest.exe.config
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\bin\Debug\2_6_WritingASimpleUnitTest.exe
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\bin\Debug\2_6_WritingASimpleUnitTest.pdb
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\obj\Debug\2_6_WritingASimpleUnitTest.csprojAssemblyReference.cache
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\obj\Debug\2_6_WritingASimpleUnitTest.exe
+C:\Users\TNykuka\source\repos\2_6_WritingASimpleUnitTest\2_6_WritingASimpleUnitTest\obj\Debug\2_6_WritingASimpleUnitTest.pdb
